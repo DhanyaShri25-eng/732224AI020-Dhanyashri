@@ -1,4 +1,4 @@
-#Steps to create
+## Steps to create
 - Create a new work flow
 - Start with form creation,so start with form
 - Click on n8n form
@@ -13,6 +13,6 @@
 - Drag Drop your topic,mail address and the output
 - Atlast the mail receive
 
-#Screenshot of this
+## Image
   
   <img width="1053" height="652" alt="image" src="https://github.com/user-attachments/assets/4297e7a1-44c3-4d01-a496-132f5d74e249" />
