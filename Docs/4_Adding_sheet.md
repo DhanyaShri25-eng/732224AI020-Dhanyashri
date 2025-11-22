@@ -13,4 +13,6 @@
 - need to know whether the mail sen to user so add gmail
 
   #Screenshots
-  <img width="830" height="618" alt="image" src="https://github.com/user-attachments/assets/91bfbef1-2ffd-493d-b771-4827c2c2c5b9" />
+
+
+ <img width="830" height="618" alt="image" src="https://github.com/user-attachments/assets/91bfbef1-2ffd-493d-b771-4827c2c2c5b9" />
